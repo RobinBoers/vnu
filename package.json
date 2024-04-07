@@ -1,13 +1,11 @@
 {
   "name": "vnu",
+  "author": "Axcelott",
+  "description": "Provides an executable for the `vnu-jar` NPM package.",
   "version": "1.0.0",
   "repository": {
-    "url": "git@github.com:RobinBoers/vnu.git",
-    "type": "git"
-  },
-  "author": {
-    "name": "Axcelott",
-    "url": "https://roblog.nl"
+    "type": "git",
+    "url": "git.dupunkto.org/forks/vnu"
   },
   "license": "MIT",
   "bin": {
