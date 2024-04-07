@@ -1,0 +1,19 @@
+{
+  "name": "vnu",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git@github.com:RobinBoers/vnu.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Axcelott",
+    "url": "https://roblog.nl"
+  },
+  "license": "MIT",
+  "bin": {
+    "vnu": "./bin/vnu.js"
+  },
+  "dependencies": {
+    "vnu-jar": "^23.4.11"
+  }
+}
